@@ -2,7 +2,7 @@
 
 # Description
 
-This is a simple flutter applications for beginner.It consists of chapter wise details as a begineers frinedly.
+This is a simple flutter applications for beginner.It consists of chapter wise details as a begineers friendly manner.
 
 - dev-chap1 : setup flutter and scallfold widgets
 - dev-chap2-row-column : row column property in flutter
