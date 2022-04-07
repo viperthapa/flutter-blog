@@ -11,8 +11,5 @@ This is a simple flutter applications for beginner.It consists of chapter wise d
 
 ## screenshots
 
-1.Sidebar
 ![](images/sidebar.png)
-
-2.Home
 ![](images/home.png)
